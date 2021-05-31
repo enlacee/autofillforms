@@ -9,4 +9,4 @@ version: 91.0
 
 ## Execute app
 
-python automation.py
+    python automation.py
